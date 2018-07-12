@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<users>
+  <user>
+    <login>push</login>
+    <pass>e42cc7f0dbcd82affc56bae066f55615b4cda920</pass>
+    <mail>push</mail>
+    <name>push</name>
+    <salt>2kPvB</salt>
+  </user>
+  <user>
+    <login>login</login>
+    <pass>d892c5de5bfb912e881c8dbb58ebf0deddba492f</pass>
+    <mail>mail</mail>
+    <name>name</name>
+    <salt>5ShZT</salt>
+  </user>
+  <user>
+    <login>dap</login>
+    <pass>f2c7fdbc907ba0e1d91ef8259cc9f2f6edd98465</pass>
+    <mail>dap</mail>
+    <name>dap</name>
+    <salt>LWgeR</salt>
+  </user>
+  <user>
+    <login>gen</login>
+    <pass>d9da692fa09902ba06b625239bb704b7482d65d3</pass>
+    <mail>gen</mail>
+    <name>gen</name>
+    <salt>XywsO</salt>
+  </user>
+</users>
